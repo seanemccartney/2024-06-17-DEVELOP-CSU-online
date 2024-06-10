@@ -4,10 +4,10 @@ June 17 – 26, 2024
 
 Content:
 
-The Unix Shell
-Version Control with Git
-Programming with Python
-Programming with R
-Geospatial Programming in Python
+1. The Unix Shell
+2. Version Control with Git
+3. Programming with Python
+4. Programming with R
+5. Geospatial Programming in Python
 
 Website: https://seanemccartney.github.io/2024-06-17-DEVELOP-CSU-online/
